@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-03T22:29:39.972Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="XUdKxEZO7rc3Gc__hiUZ" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-03T22:29:58.024Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="eQJFl6Jh4DNhGjKwbZwj" version="13.10.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="868" dy="1651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -131,7 +131,7 @@
           <mxGeometry x="540" y="-584.5" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Y7ApCIO80JGgvk80bpZD-41" value="&lt;b&gt;&lt;font style=&quot;font-size: 22px&quot; color=&quot;#ff0000&quot;&gt;Modello Logico&lt;/font&gt;&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;sketch=0;fontColor=#1D3557;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="25" y="-640" width="180" height="20" as="geometry" />
+          <mxGeometry x="10" y="-640" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Y7ApCIO80JGgvk80bpZD-44" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERmany;endFill=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="Y7ApCIO80JGgvk80bpZD-34">
           <mxGeometry relative="1" as="geometry">
